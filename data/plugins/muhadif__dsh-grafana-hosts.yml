@@ -1,0 +1,6 @@
+url: https://github.com/muhadif/dsh-grafana-hosts
+name: muhadif/dsh-grafana-hosts
+category: tools
+tarball: https://github.com/muhadif/dsh-grafana-hosts/releases/latest/download/dsh-grafana-hosts.tgz
+description:
+  en: 'Read-only Grafana across several named hosts: six tools for dashboard search, dashboard structure, the queries behind a panel, PromQL/LogQL, and alerts, with a per-host service-account token in the credential store and a settings card to manage hosts.'
