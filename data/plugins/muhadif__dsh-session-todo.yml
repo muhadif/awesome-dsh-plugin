@@ -2,4 +2,4 @@ url: https://github.com/muhadif/dsh-session-todo
 name: muhadif/dsh-session-todo
 category: workflow
 description:
-  en: 'Workspace-scoped PRD and task board: three tools let the agent save the PRD, claim a task before working, append progress notes and close it, and a strip under the composer shows the same board to the human with Start, Done, Reopen and Delete per task, a per-task progress log and a PRD editor. One board per working directory, shared by every session and subagent in it; the board is a JSON file under DSH_HOME.'
+  en: 'Workspace-scoped PRD and kanban task board: three tools let the agent save the PRD, claim a task before working, append progress notes and close it, and a four-column board (todo, doing, blocked, done) in the main panel shows the same board to the human with per-card Start, Done, Block, Reopen, Delete and a progress log. Every card records the sessions that touched the task and links to the one that last worked on it, and a toggle narrows the board to the current session or the whole workspace. One board per working directory, shared by every session and subagent in it; the board is a JSON file under DSH_HOME.'
